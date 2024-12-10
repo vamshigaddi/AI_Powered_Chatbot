@@ -9,6 +9,9 @@ This is an AI-powered chatbot designed to assist with customer support. The chat
 - **Vector Database Support:** Utilizes Chroma for storing and retrieving document embeddings.
 - **Persistent Embeddings:** Embeddings are saved to disk, allowing for persistent data that is reused to avoid regeneration each time.
 - **Query Handling:** The chatbot uses a templated prompt to generate concise, friendly, and informative responses based on user input.
+
+## Architecture
+![Image](https://github.com/vamshigaddi/AI_Powered_Chatbot/blob/main/chatbot.svg)
   
 ## Prerequisites
 
