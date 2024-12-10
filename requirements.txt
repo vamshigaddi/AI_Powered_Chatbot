@@ -1,0 +1,6 @@
+crewai
+crewai-tools
+langchain-huggingface 
+langchain-groq 
+langchain-chroma
+python-dotenv

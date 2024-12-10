@@ -1,0 +1,7 @@
+output_video.mp4
+ir.py
+annotation.json
+venv
+__pycache__
+old_main.py
+annotations.json

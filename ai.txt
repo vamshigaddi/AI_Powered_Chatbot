@@ -1,0 +1,297 @@
+CodeMate| Your personalised and secured AI Pair Programmer
+Limited Time Deal- Now try CodeMate Pro for as low as $8/mo! Know more
+Features
+Pricing
+Contact
+ For Education
+Get Started
+ The fastest
+ way to write error-free code
+Code 10x faster as CodeMate search, navigate and understand complex
+ codebases for you.
+Install our VS Code Extension
+Have a question?
+Schedule a demo
+lines of code reviewed so far
+Trusted by engineers at
+ Say goodbye
+ to Overloading Tabs
+Say hello to smarter coding- CodeMate's Intuitive
+ Interface makes Coding a Breeze!
+Prevent project delays, get paid sooner
+Code with Confidence 
+Streamline Your Workflow with 10x productivity
+ An AI pair programmer made for
+Focus on solving problems, not debugging.
+AI Assistant: Your co-developer while programming
+Make changes in your codebase like CRUD operations, add documentations or perform any task
+ on your behalf with just a command. 
+Instantly debug code to
+ get
+ the required output
+The Debug code feature analyse your code on multiple test
+ cases
+ based on your approach and generate detailed fixes along
+ with
+ description of the error that you may have otherwise missed
+ to
+ achieve the desired output.
+Optimise bad quality code within seconds
+Refactor your codebase to remove redundant and error-prone code to make it production
+ ready.
+CodeMate Chat:
+ ChatGPT with context-awareness 
+Connect your codebase, documentations and Git repositories and start interacting with
+ them without any data leaving your existing environment.
+Get detailed
+ code
+ review 
+Review your code as per best practices to be
+ followed
+ in software development through AI as if an
+ experienced developer is sitting beside you
+ Choose a pricing
+ plan
+Monthly
+Annually 
+One-Time
+Pro Plan
+For individual developers and freelancers
+/month
+Includes:
+Debug, Review and Refactor Code
+Unlimited internet searches
+CodeMate Assistant Access
+Search & Chat with Documentations & codebases
+Generate Unit/Functional Test cases
+Subscribe
+ Most Recommended
+Teams Plan
+For smaller development teams and startups
+/month
+/user
+Everything in Pro, plus
+Collaborative Knowledge Base Sharing
+Bring your own Key
+Advanced ML models
+Seat Management
+Automated PR reviews
+Subscribe
+Organisation
+For SMBs and Enterprises
+Let's Talk
+Everything in Teams, plus:
+Dedicated Account Manager
+On-premises Deployment
+Custom fine-tuned models
+Priority Support
+ Contact Us
+Tier Plan 1
+For solo developers and Programming Enthusiasts
+$59
+$360
+Includes:
+1 seat
+60,000 total tokens per month
+5 total knowledge bases
+1 GB total storage space
+250 internet searches per month
+Github integration(s)
+Buy Now
+Tier Plan 2
+For Professional developers and freelancers
+$169
+$360
+Includes:
+1 seat(s)
+175,000 total tokens per month
+10 total knowledge bases
+3 GB total storage space
+500 internet searches per month
+Codebase + GitHub + URL integration(s)
+Buy Now
+50,000+ professional developers enhancing their productivity through CodeMate
+4.6 ★★★★☆
+4.4 ★★★★☆
+❮
+❯
+ Proud to be recognised
+ by
+We're the Talk of the Town
+We are recognized by some of the most recognised tech, content, and news platforms, organisations and industry experts around the globe.
+ASEAN-India Scalehub 2024 in Bali, Indonesia
+CodeMate was one of the Top 40 growth stage startups from ASEAN and India selected for this flagship event
+Read More
+AWS APJ GenAI Spotlight 2024 (Previously ML Elevate)
+CodeMate selected for the AWS Generative AI Spotlight program for top pre-seed and seed-stage ready startups across Asia-Pacific and Japan
+Read More
+Generative AI Startup Landscape Report, 2023 by Inc42
+CodeMate was featured in this report as one of the top generative AI startups in India building in Code and Data domain
+Read More
+Tech30: Thirty most promising Indian startups of 2023
+Selected amongst a list of India’s 30 most promising startups having the potential to be major disruptors.
+Read More
+How CodeMate Aspires To Become The Grammarly Of Coding
+Inc42 featured CodeMate in this article on how the startup aims to become the Grammarly of coding
+Read More
+7 Gen AI Startups That Caught Our Eyes in 2024
+CodeMate recognized among top 7 AI startups in 2024 by Inc42
+Read More
+Nasscom Generative AI Startup Landscape Report 2023
+CodeMate AI was featured in this report as one of the top generative AI startups building from India for the world
+Read More
+MoneyControl Article
+Featured as one of the top 9 interesting generative AI startups in India by Moneycontrol
+Read More
+30 Startups To Watch: AI Startups That Caught Our Eyes In February 2024
+CodeMate got featured in this prestiguous list of top 30 AI startups by Inc42
+Read More
+Google Developers Startup Bootcamp 2022
+Google organized the 1st University edition of Google for Startups Accelerator in India, and we were honored to be one of the top 10 startups selected in the cohort out of over 1500 applicants across India.
+Read More
+UAE – India Business Forum 2024 in Mumbai, India| Meet with Abu Dhabi Prince HH Al Nahyan
+Invited as one of the selective growth stage companies for this exclusive event held in Mumbai. The event was organised by the UAE Ministry of Economy and the UAE Embassy in India, in collaboration with the Ministry of Commerce and Industry in India.
+Meeting Ethiopian Ambassador H.E. Demeke Atnafu Ambulo
+CodeMate was one of the few startups invited to meet with the Ethiopian Ambassador to India, H.E. Demeke Atnafu Ambulo, at International Ambassador Meet 2024 in New Delhi.
+Read More
+Interview with Businessworld
+Our founder, Ayush Singhal interviewed with BusinessWorld and talked about the opportunities coming up in the startup ecosystem and how CodeMate AI is becoming the forefront of AI in software development
+Read More
+Media Feature: Indian Startup News
+Indian Startup News featured CodeMate in this article on how we are building AI for developers and making them 10x productive while writing code.
+Read More
+Winner of Artificial Intelligence Awards' 23
+CodeMate was the winner in the category of Most Innovative Programming Solutions-India in Artificial Intelligence Awards' 23 organised by Corporate Vision Magazine
+Read More
+Podcast with Sandeep Jain, Founder of GeeksforGeeks
+Our founder, Ayush Singhal got invited by Mr. Sandeep Jain, founder of GeeksforGeeks to talk about CodeMate's innovative approach to AI in software development
+Read More
+Exclusive Roundtable with Sam Altman, Founder of OpenAI
+Our founder, Ayush Singhal was invited to an exclusive roundtable discussion with Sam Altman, the founder of OpenAI, to discuss the future of AI and its impact on the world on 8th June 2023. It was an exclusive invite only for top 15 founders and developers building in Generative AI.
+Featured at Razorpay FTX'24
+We were featured at Razorpay FTX'24, one of the biggest fintech events in India held on 23rd February 2024. We were as one of the top innovative startups backed by Razorpay Rize.
+Winner of Global Student Entrepreneur Awards, Bangalore 2023-24
+CodeMate AI got the first position in the Global Student Entrepreneur Awards Regional Finals held in Bangalore in Febrary 2024
+Devfest 2023 organised by Google Developers Group, Delhi
+We were one of the official partners for this event and had a booth to showcase CodeMate AI to the developer community in Delhi.
+Startup Mahakumbh 2024
+CodeMate AI was recognized among top 20 startups from Uttar Pradesh and got a chance to showcase their product in Startup Mahakumbh held in Bharat Mandapam, New Delhi on 18th March 2024 which was witnessed by over 10,000 people and graced by the presence of Honorable Prime Minister Narendra Modi.
+Nexus Startup Program by US Embassy: Cohort 17
+CodeMate AI was selected amongst 1000+ applicants for cohort 17 of Nexus Startup Program run by US Embassy in American Center, New Delhi.
+Read More
+Alumni Meet of Nexus Startup Program with Eric Garcetti, US Ambassador to India
+CodeMate AI was invited to an exclusive alumni meet for selected startups of Nexus Startup Program run by US Embassy in American Center, New Delhi, where we had the opportunity to discuss our startup journey and innovations with Eric Garcetti, the former Mayor of Los Angeles and the current US Ambassador to India. Date: 17th November 2023.
+Read More
+Pitchfest 2023: Techsparks Bangalore
+CodeMate AI got featured in this article on Techsparks Bangalore organised by YourStory
+Read More
+Starting Up with Shradha Sharma, Founder of YourStory
+Our founder Ayush Singhal was invited in a show with Shradha Sharma, founder of YourStory to talk about CodeMate's innovative approach to AI in software development
+Read More
+Media Feature: YourStory
+CodeMate's innovative approach got recognised and featured by YourStory, a leading media house globally'
+Read More
+Media Feature: YourStory
+CodeMate got mentioned in this article featuring top startups of Nasscom GenAI Foundry.
+Read More
+South Asia Finals of Global Student Entrepreneur Awards'24
+CodeMate AI was selected amongst top 4 startups from India out of 1000+ applicants to represent India at the Global Student Entrepreneur Awards South Asia Finals 2024.
+Read More
+Invited as Jury Member for IDE Bootcamp by Ministry of Education
+Our founder, Ayush Singhal was invited as a Jury Member for IDE Bootcamp by Ministry of Education, Government of India to mentor and guide Smart India Hackathon students on their business ideas.
+Selected for AIIDE cohort by IIT Kanpur
+CodeMate AI was selected in Artificial Intelligence and Innovation Driven Entrepreneurship Center of Excellence (AIIDE) cohort 4 by IIT Kanpur
+Business World Tech Talks
+We were invited at Business World Tech Talks held in New Delhi
+Read More
+Awarded NIDHI EiR by Department of Science and Technology
+CodeMate AI was recognised by TIDES, IIT Roorkee and awarded NIDHI EiR by Department of Science and Technology, Government of India
+Awarded TIDE 2.0 grant by Ministry of Electronics and Information Technology, Government of India
+CodeMate AI was awarded with TIDE 2.0 grant by MEITY and recognised by JECRC Incubation Center
+National Finalist in Entrepreneurship World Cup
+We were the National finalists in Entrepreneurship World Cup'22 organised by Misk Global Forum, Global Entrepreneurship Network and The Global Education & Leadership Foundation.
+Featured in Dainik Jaagran
+Our journey was featured in Dainik Jaagran, a leading Hindi daily newspaper in India.
+Gen AI Summit by Businessworld
+Our founder, Ayush Singhal was invited as a speaker at Gen AI Summit organised by Businessworld in New Delhi.
+Global Student Entrepreneur Awards, Noida 2024
+CodeMate AI was selected amongst top 10 startups from India out of 100+ applicants to showcase at the Global Student Entrepreneur Awards Regional Finals held in Noida in 2023.
+Nasscom 10000 Startups
+CodeMate AI got selected for the 10000 Startups program by Nasscom
+AI in Software Development Conf'24
+Our founder, Ayush Singhal was Invited as a speaker at AI in Software Development Conference'24 organised by Geekle.us and witnessed by over 1000+ developers and tech enthusiasts.
+View More
+Frequently asked questions
+What kind of coding errors does
+ your tool help fix?
+ Our tool can help fix a variety of coding errors, including syntax errors,
+ logical errors, performance issues and even run-time errors. We use advanced
+ algorithms and machine learning techniques to analyze your code and provide
+ suggestions for improvement.
+How does your tool perform code
+ reviews?
+ CodeMate can analyze your code against best practices and industry standards
+ to help identify potential issues and improve the overall quality of your
+ code. We can provide feedback on things like code style, naming guidelines,
+ formatting, documentation, and more.
+Can your tool optimize code
+ automatically?
+ Yes, our tool can suggest optimizations for your code, such as identifying
+ areas where you can use more efficient algorithms or data structures.
+ However, it's up to you to implement these optimizations in your code.
+Can your tool be used with any
+ programming language?
+Our tool supports all programming languages and frameworks including but not limited to Python,
+ JavaScript, Java, C++, C#, PHP,
+ TypeScript, Ruby, Swift, Go, Kotlin, Rust, R, MATLAB, Perl, Shell scripting, SQL, Objective-C,
+ Scala, Haskell, Dart, Elixir, Erlang, Fortran and Prolog. and many more. We're constantly adding
+ support for new languages, so if you don't see your language working with CodeMate, please contact
+ us and
+ let us know. Moreover, you can also add the documentation of any new language/framework in your
+ Knowledge base and refer it while asking questions to get up-to-date information.
+Is my code kept private and secure?
+ Yes, we take the security and privacy of your code very seriously. We use
+ industry-standard encryption and security protocols to protect your code and
+ ensure that it remains private and secure at all times.
+How do I get started with your
+ tool?
+ CodeMate offers a quick and easy way to fix your coding errors, without the
+ need for switching your existing environment. If you are working in Visual
+ Studio Code, you can simply install CodeMate extension there and start
+ using. Or else, you can use our own IDE to code and fix your errors.
+How accurate is results generated
+ by CodeMate?
+ The accuracy of the results generated by CodeMate depends on several
+ factors, including the quality and specificity of the code description
+ provided by the user. Our models are trained on the latest data available
+ from sources such as Stack Overflow and open-source repositories, but it's
+ important to note that they may not always produce perfect results. However,
+ users can edit and refine the results as needed to ensure that they meet
+ their specific requirements. Overall, we strive to provide the most accurate
+ and useful results possible to help developers improve their code.
+Still have questions?
+Get in touch with our team.
+Contact
+Bring CodeMate to your IDE
+Download our Visual Studio Code extension and build software 20x faster.
+Download Now
+Join our awesome community
+ Share work, seek support, vote on components, stay updated and network with other
+ code mates.
+Join our
+ Discord community
+Made by 
+Team Codemate
+Building from 🇮🇳 for the 🌎
+Get Started
+CodeMate for Education
+Features
+Pricing
+Documentation
+Hugging Face
+Refund Policy
+Discord
+VS Code
+Privacy Policy
+© 2024 CodeMate. All rights reserved.
+Terms of Service
