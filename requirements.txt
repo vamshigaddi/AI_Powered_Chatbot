@@ -4,3 +4,4 @@ langchain-huggingface
 langchain-groq 
 langchain-chroma
 python-dotenv
+"fastapi[standard]"
