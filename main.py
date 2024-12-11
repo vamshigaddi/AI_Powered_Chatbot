@@ -125,33 +125,5 @@ class CustomerSupportChatbot:
         return response
 
 
-# if __name__ == "__main__":
-#     # Get API key and settings
-#     api_key = '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'
-#     overwrite_embeddings = False  # Change to True to regenerate embeddings
-
-#     # Create the chatbot instance
-#     chatbot = CustomerSupportChatbot(api_key=api_key, overwrite_embeddings=overwrite_embeddings)
-
-#     # Call generate_embeddings with load_documents=True to load documents and generate embeddings
-#     #path = 'ai.txt'
-#     #documents = chatbot.load_documents(path)  # Load documents from the file
-
-#     # Generate embeddings from the loaded documents (or use existing ones if overwrite_embeddings=False)
-#     chatbot.generate_embeddings(load_documents=False)
-
-#     print("Chatbot is ready! You can ask your questions.")
-
-#     # Interact with the chatbot
-#     while True:
-#         question = input("Ask a question (or type 'exit' to quit): ")
-#         if question.lower() == "exit":
-#             print("Exiting. Goodbye!")
-#             break
-#         try:
-#             response = chatbot.query_chatbot(question)
-#             print(response)
-#         except ValueError as e:
-#             print(f"Error: {e}. Ensure embeddings are created by calling load_documents() with a valid file.")
 
 
